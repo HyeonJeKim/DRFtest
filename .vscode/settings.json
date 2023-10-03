@@ -1,0 +1,11 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "autopep8",
+    
+    "python.pythonPath": "C:\\Users\\Baran\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+    "python.linting.pylintPath": "c:\\Users\\Baran\\Django_REST_test\\BE\\resttest\\Lib\\site-packages\\",
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true
+}
